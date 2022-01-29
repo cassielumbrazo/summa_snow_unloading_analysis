@@ -1,8 +1,8 @@
 # summa_snow_unloading_analysis
 ## Repo for python notebooks that analyize multiple canopy-snow unloading parameterizations in pySUMMA
 
-*Created by:* Cassie A Lumbrazo (lumbraca@uw.edu)
-*Last edited:* January 2022
+*Created by:* Cassie A Lumbrazo (lumbraca@uw.edu) \\
+*Last edited:* January 2022 \
 *Program Language:* Python
 
 ---
