@@ -41,8 +41,9 @@ This repo is created to host analysis related to manuscript 2021WR030852 submitt
 ---
 
 ### Example Time-lapse Images from Niwot Ridge, Colorado. 
+One of the field sites used in this research project. Time-lapse images are from the [PhenoCam Network](https://phenocam.sr.unh.edu/webcam/) 
 
-No snow in the canopy | Snow Storm | Snow Storm  Snow in the canopy 
+No snow in the canopy | Snow storm begins | Snow in the canopy 
 :--------------------:|:-------------------:|:-------------------:
 <img src="/images/niwot3_2017_05_22_130005.jpg"> | <img src="/images/niwot3_2017_05_22_170005.jpg"> | <img src="/images/niwot3_2017_05_22_193006.jpg"> |
 
