@@ -1,1 +1,1 @@
-### A place to store images for the repo
+A place to store images for the repo
