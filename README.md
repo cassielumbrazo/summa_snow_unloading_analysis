@@ -13,6 +13,7 @@ This repo is created to host analysis related to manuscript 2021WR030852 submitt
 **Cassie Lumbrazo[^1]**, Andrew Bennett[^1], William Ryan Currier[^2], Bart Nijssen[^1], Jessica Lundquist[^1] 
 
 [1] Department of Civil Engineering, University of Washington, Seattle, WA
+
 [2] National OCeanic and Atmospheric Administration, Earth Systen Research Laboratory, Physical Science Laboratory, Boulder, CO, USA
 
 
