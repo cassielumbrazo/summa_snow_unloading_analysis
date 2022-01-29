@@ -42,17 +42,9 @@ This repo is created to host analysis related to manuscript 2021WR030852 submitt
 
 ### Example Time-lapse Images from Niwot Ridge, Colorado. 
 
-No snow in the canopy | Snow in the canopy 
-:--------------------:|:-------------------:
-![]<img src="/images/niwot3_2017_05_22_130005.jpg"> | ![] <img src="/images/niwot3_2017_05_22_170005.jpg">
-
-<div class="gallery" data-columns="3">
-	<img src="/images/niwot3_2017_05_22_130005.jpg">
-  <img src="/images/niwot3_2017_05_22_170005.jpg">
-  <img src="/images/niwot3_2017_05_22_193006.jpg">
-</div>
-
-
+No snow in the canopy | Snow Storm | Snow Storm  Snow in the canopy 
+:--------------------:|:-------------------:|:-------------------:
+<img src="/images/niwot3_2017_05_22_130005.jpg"> | <img src="/images/niwot3_2017_05_22_170005.jpg"> | <img src="/images/niwot3_2017_05_22_193006.jpg"> |
 
 
 
