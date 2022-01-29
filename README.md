@@ -1,20 +1,20 @@
 # summa_snow_unloading_analysis
 ## Repo for python notebooks that analyize multiple canopy-snow unloading parameterizations in pySUMMA
 
-*Created by:* Cassie A Lumbrazo (lumbraca@uw.edu) \\
+*Created by:* Cassie A Lumbrazo (lumbraca@uw.edu) \
 *Last edited:* January 2022 \
-*Program Language:* Python
+*Program Language:* Python \
 
 ---
 
-This repo is created to host analysis related to manuscript 2021WR030852 submitted to AGU WRR
+This repo is created to host analysis related to manuscript 2021WR030852 submitted to AGU WRR, 
 
-#### Evaluating multiple canopy-snow unloading parameterizations in SUMMA with time-lapse photography characterized by citizen scientists 
+### Evaluating multiple canopy-snow unloading parameterizations in SUMMA with time-lapse photography characterized by citizen scientists 
 **Cassie Lumbrazo**, Andrew Bennett, William Ryan Currier, Bart Nijssen, Jessica Lundquist 
 
-Department of Civil Engineering, University of Washington, Seattle, WA
+*Department of Civil Engineering, University of Washington, Seattle, WA*
 
-National OCeanic and Atmospheric Administration, Earth Systen Research Laboratory, Physical Science Laboratory, Boulder, CO, USA
+*National OCeanic and Atmospheric Administration, Earth Systen Research Laboratory, Physical Science Laboratory, Boulder, CO, USA*
 
 ---
 
