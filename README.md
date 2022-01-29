@@ -3,7 +3,7 @@
 
 *Created by:* Cassie A Lumbrazo (lumbraca@uw.edu) \
 *Last edited:* January 2022 \
-*Program Language:* Python \
+*Program Language:* Python 
 
 ---
 
@@ -23,4 +23,10 @@ This repo is created to host analysis related to manuscript 2021WR030852 submitt
 * Site specific interception patterns, such as wind dominated unloading and riming, impact the transferability of unloading parameteriztions 
 * The choice of unloading shceme impacts the canopy albedo feedback, and the partitioning of snow on the ground vs canopy-sublimation
 
+---
 
+| Unloading Scheme Citation  | Paramertization Unloading Process    | Paper NickName   | Python Notebook Nickname |
+|----------------------------|---------------|------------------|--------------------------|
+| Andreadis et al. (2009)    | Ratio of solid snow in canopy unloads in presence of meltwater | Melt              | melt              |
+| Hedstrom & Pomeroy, (1998) | Jekyll Themes | Exponential-Decay              | exp, dexp                |
+| Roesch et al. (2001)       | Jekyll Themes | Wind-Temperature              | wind, dwind              |
