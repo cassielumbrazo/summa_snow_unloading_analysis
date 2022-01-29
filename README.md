@@ -10,11 +10,11 @@
 This repo is created to host analysis related to manuscript 2021WR030852 submitted to AGU WRR, 
 
 ### Evaluating multiple canopy-snow unloading parameterizations in SUMMA with time-lapse photography characterized by citizen scientists 
-**Cassie Lumbrazo**, Andrew Bennett, William Ryan Currier, Bart Nijssen, Jessica Lundquist 
+**Cassie Lumbrazo[^1]**, Andrew Bennett[^1], William Ryan Currier[^2], Bart Nijssen[^1], Jessica Lundquist[^1] 
 
-*Department of Civil Engineering, University of Washington, Seattle, WA*
+[^1]:Department of Civil Engineering, University of Washington, Seattle, WA
 
-*National OCeanic and Atmospheric Administration, Earth Systen Research Laboratory, Physical Science Laboratory, Boulder, CO, USA*
+[^2]:National OCeanic and Atmospheric Administration, Earth Systen Research Laboratory, Physical Science Laboratory, Boulder, CO, USA
 
 ---
 
@@ -34,3 +34,6 @@ This repo is created to host analysis related to manuscript 2021WR030852 submitt
 | Roesch et al. (2001)       | Wind and temperature dependent unloading                       | Wind-Temperature  | wind, dwind (d: default) |
 
 
+Test hypermind
+
+[Andreadis et al. (2009)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008WR007042)
