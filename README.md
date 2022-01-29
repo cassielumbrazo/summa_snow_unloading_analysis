@@ -25,8 +25,12 @@ This repo is created to host analysis related to manuscript 2021WR030852 submitt
 
 ---
 
-| Unloading Scheme Citation  | Paramertization Unloading Process    | Paper NickName   | Python Notebook Nickname |
-|----------------------------|---------------|------------------|--------------------------|
-| Andreadis et al. (2009)    | Ratio of solid snow in canopy unloads in presence of meltwater | Melt              | melt              |
-| Hedstrom & Pomeroy, (1998) | Jekyll Themes | Exponential-Decay              | exp, dexp                |
-| Roesch et al. (2001)       | Jekyll Themes | Wind-Temperature              | wind, dwind              |
+## Table 1 (adapted): Canopy-snow unloading parameterizations
+
+| Unloading Scheme Citation  | Paramertization Unloading Process                              | Paper NickName    | Python Notebook Nickname |
+|----------------------------|----------------------------------------------------------------|-------------------|--------------------------|
+| Andreadis et al. (2009)    | Ratio of solid snow in canopy unloads in presence of meltwater | Melt              | melt                     |
+| Hedstrom & Pomeroy, (1998) | Time dependent exponential decay unloading                     | Exponential-Decay | exp, dexp   (d: default) |
+| Roesch et al. (2001)       | Wind and temperature dependent unloading                       | Wind-Temperature  | wind, dwind (d: default) |
+
+
