@@ -1,0 +1,1 @@
+'lsos_HRRR_data_FromBart.nc'
