@@ -2,7 +2,7 @@
 ## Repo for python notebooks that analyize multiple canopy-snow unloading parameterizations in pySUMMA
 
 *Created by:* Cassie A Lumbrazo (lumbraca@uw.edu) \
-*Last edited:* January 2022 \
+*Last edited:* June 2022 \
 *Program Language:* Python 
 
 ---
