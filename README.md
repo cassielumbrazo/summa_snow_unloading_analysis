@@ -35,7 +35,7 @@ This repo is created to host analysis related to manuscript 2021WR030852 submitt
 |----------------------------|----------------------------------------------------------------|-------------------|--------------------------|
 | [Andreadis et al. (2009)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008WR007042)    | Ratio of solid snow in canopy unloads in presence of meltwater | Melt              | melt                     |
 | [Hedstrom & Pomeroy, (1998)](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291099-1085%28199808/09%2912%3A10/11%3C1611%3A%3AAID-HYP684%3E3.0.CO%3B2-4) | Time dependent exponential decay unloading                     | Exponential-Decay | exp, dexp   (d: default) |
-| Roesch et al. (2001)       | Wind and temperature dependent unloading                       | Wind-Temperature  | wind, dwind (d: default) |
+| [Roesch et al. (2001)](https://doi.org/10.1007/s003820100153)       | Wind and temperature dependent unloading                       | Wind-Temperature  | wind, dwind (d: default) |
 
 
 ---
